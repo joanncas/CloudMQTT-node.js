@@ -2,7 +2,7 @@
 var mqtt = require('mqtt');
 
 var options = { 
-    port: 17xxx,
+    port: 17***,
     host: 'mqtt://m11.cloudmqtt.com',
     clientId: 'mqttjs_' + Math.random().toString(16).substr(2, 8),
     username: 'User_Name',
